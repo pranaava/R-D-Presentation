@@ -1,0 +1,269 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{umn_crowd}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={{UMN}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Online; accessed 5-January-2019]}
+    \field{title}{Unusual crowd activity dataset of university of Minnesota}
+    \verb{url}
+    \verb http://mha.cs.umn.edu/proj_events.shtml
+    \endverb
+    \field{year}{2006}
+  \endentry
+
+  \entry{opt_flow_opencv}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={{OpenCV}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Online; accessed 31-Dec-2018]}
+    \field{title}{OpenCV Optical flow}
+    \verb{url}
+    \verb https://docs.opencv.org/3.3.1/d7/d8b/tutorial_py_lucas_kanade.html
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{qmul_traffic}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{David Russell}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Online; accessed 5-January-2019]}
+    \field{title}{QMUL Junction Dataset}
+    \verb{url}
+    \verb http://www.eecs.qmul.ac.uk/~sgg/QMUL_Junction_Datasets/Junction/Junct
+    \verb ion.html
+    \endverb
+    \field{year}{2008}
+  \endentry
+
+  \entry{ucsd_anom}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CYT}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yie-Tarng},
+         giveni={Y\bibinitperiod-T\bibinitperiod},
+      }}%
+      {{hash=FWH}{%
+         family={Fang},
+         familyi={F\bibinitperiod},
+         given={Wen-Hsien},
+         giveni={W\bibinitperiod-H\bibinitperiod},
+      }}%
+      {{hash=LCY}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Chih-Yuan},
+         giveni={C\bibinitperiod-Y\bibinitperiod},
+      }}%
+      {{hash=CKW}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Kai-Wen},
+         giveni={K\bibinitperiod-W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CYT+1}
+    \strng{fullhash}{CYTFWHLCYCKW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/ChinaSIP.2015.7230397
+    \endverb
+    \field{title}{Abnormal Detection in Crowded Scenes via Kernel Based Direct
+  Density Ratio Estimation}
+    \field{month}{07}
+    \field{year}{2015}
+  \endentry
+
+  \entry{hand_manip_anom}{article}{}
+    \name{author}{10}{}{%
+      {{hash=KD}{%
+         family={Kappler},
+         familyi={K\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Meier},
+         familyi={M\bibinitperiod},
+         given={Franziska},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=IJ}{%
+         family={Issac},
+         familyi={I\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mainprice},
+         familyi={M\bibinitperiod},
+         given={Jim},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CCG}{%
+         family={Cifuentes},
+         familyi={C\bibinitperiod},
+         given={Cristina\bibnamedelima Garcia},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={W{\"{u}}thrich},
+         familyi={W\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Berenz},
+         familyi={B\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schaal},
+         familyi={S\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RND}{%
+         family={Ratliff},
+         familyi={R\bibinitperiod},
+         given={Nathan\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bohg},
+         familyi={B\bibinitperiod},
+         given={Jeannette},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KD+1}
+    \strng{fullhash}{KDMFIJMJCCGWMBVSSRNDBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 1703.03512
+    \endverb
+    \field{title}{Real-time Perception meets Reactive Motion Generation}
+    \verb{url}
+    \verb http://arxiv.org/abs/1703.03512
+    \endverb
+    \field{volume}{abs/1703.03512}
+    \field{journaltitle}{CoRR}
+    \field{eprinttype}{arXiv}
+    \field{year}{2017}
+  \endentry
+
+  \entry{kitti_data}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GA}{%
+         family={Geiger},
+         familyi={G\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lenz},
+         familyi={L\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=UR}{%
+         family={Urtasun},
+         familyi={U\bibinitperiod},
+         given={Raquel},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GALPUR1}
+    \strng{fullhash}{GALPUR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Conference on Computer Vision and Pattern Recognition
+  (CVPR)}
+    \field{title}{Are we ready for Autonomous Driving? The KITTI Vision
+  Benchmark Suite}
+    \field{year}{2012}
+  \endentry
+
+  \entry{phase_port_paper}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=RAR}{%
+         family={Rao},
+         familyi={R\bibinitperiod},
+         given={A.\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{computer vision;differential equations;least squares
+  approximations;surface texture;computer vision;flowlike texture;oriented
+  textures;phase portraits;signal-to-symbol transformation;geometric
+  theory;differential equations;symbol set;symbolic representation;orientation
+  field;nonlinear least-squares technique;spatial behavior;Differential
+  equations;Computer vision;Image segmentation;Artificial
+  intelligence;Electronic mail;Machinery;Least squares methods;Image texture
+  analysis;Signal analysis;Anisotropic magnetoresistance}
+    \strng{namehash}{RARJR1}
+    \strng{fullhash}{RARJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{[1990] Proceedings. 10th International Conference on
+  Pattern Recognition}
+    \verb{doi}
+    \verb 10.1109/ICPR.1990.118126
+    \endverb
+    \field{pages}{336\bibrangedash 340 vol.1}
+    \field{title}{Analyzing oriented textures through phase portraits}
+    \field{volume}{i}
+    \field{year}{1990}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\endsortlist
+\endinput
