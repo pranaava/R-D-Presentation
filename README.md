@@ -1,4 +1,4 @@
-Presentation used to defend the research work.
+Presentation used to defend the research work on Motion Anomaly Detection.
 
 The contents include:
 * Introduction
